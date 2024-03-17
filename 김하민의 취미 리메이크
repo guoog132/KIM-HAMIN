@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title><p>김하민의 취미</p></title>
+    </head>
+    <body>
+<p><strong>김하민의 취미 : </strong></p>
+<hr>    
+        <blockquote>
+        <p>게임하기<br>게임만들기<br>운동하기<br>잠자기</p>
+       </blockquote>
+    </body>
+</html>
